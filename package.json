@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/cors": "^2.8.7",
     "axios": "^0.19.2",
+    "cors": "^2.8.5",
     "filesize": "^6.1.0",
     "history": "^4.10.1",
     "polished": "^3.5.2",
